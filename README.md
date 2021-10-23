@@ -7,7 +7,7 @@ ItzSidhan is a small YouTuber and teaches about discord tricks for example "How 
 #
 
 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSidhan &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSidhan&theme=radical)
 
 
 ![About ItzSidhan](https://cdn.discordapp.com/attachments/876123913912979456/899949034314297365/unknown.png)
