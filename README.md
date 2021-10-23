@@ -1,4 +1,6 @@
-# ItzSidhan's Github Profile
+<h1 align="center">Hi 👋, I'm Sidhan</h1>
+<h3 align="center">An average coder.</h3>
+
 ![Who is ItzSidhan?](https://cdn.discordapp.com/attachments/876123913912979456/899947452956831744/unknown.png)
 
 ItzSidhan is a small YouTuber and teaches about discord tricks for example "How to be online 24/7, How to find your token" etc... Also have a discord server with a small amound of members in it.
@@ -14,7 +16,7 @@ Hey there, my name is Sidhan. I like to make discord coding stuff, and I like to
 
 ### Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSidhan&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSidhan&theme=github_dark)
 
 #
 
