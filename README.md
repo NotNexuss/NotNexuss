@@ -6,6 +6,10 @@ ItzSidhan is a small YouTuber and teaches about discord tricks for example "How 
 
 #
 
+Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSidhan &theme=radical)
+
+
 ![About ItzSidhan](https://cdn.discordapp.com/attachments/876123913912979456/899949034314297365/unknown.png)
 
 Hey there, my name is Sidhan. I like to make discord coding stuff, and I like to code in JavaScript/node.js. I own a YouTube channel, and I upload discord tutorial videos. I have a discord server where I announce upcoming videos and you can talk to me in there! I'm not a proffesional coder or something like that, I'm mostly liked to be an average coder.
