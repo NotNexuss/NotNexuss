@@ -1,5 +1,5 @@
-### Hello, I'm [Sidhan](https://bit.ly/ItzSidhanYT) 👋
-An average coder.
+<h1 align="center">Hi 👋, I'm Sidhan</h1>
+<h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
 - 🤖 SidBot: [Invite Me!](https://bit.ly/SidBot)
