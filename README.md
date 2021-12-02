@@ -12,7 +12,7 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/852437409693433877.png" />
 </a>
 
-### Contact me : 
+### Contact me: 
 
 [<img align="left" alt="ItzSidhan | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://bit.ly/ItzSidhanYT)
 <a href="https://dsc.gg/itzsidhan">
@@ -24,7 +24,7 @@
 
 </br>
 
-### Languages and Tools : 
+### Languages and Tools: 
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" />](https://www.javascript.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" />](https://nodejs.org/en/)
