@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidhan</h1>
+<h1 align="center">Hi 👋, I'm Sidhan (AKA: ItzNexus)</h1>
 <h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
