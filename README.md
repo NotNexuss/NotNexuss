@@ -14,11 +14,11 @@
 
 ### Contact me: 
 
-[<img align="left" alt="ItzSidhan | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://bit.ly/ItzSidhanYT)
-<a href="https://dsc.gg/itzsidhan">
+[<img align="left" alt="YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://youtube.com/ItzNexus)
+<a href="https://dsc.gg/itznexus">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/ItzSidhan">
+<a href="https://twitter.com/NotNexuss">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
