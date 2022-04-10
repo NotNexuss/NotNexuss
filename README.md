@@ -2,7 +2,6 @@
 <h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
-- 🤖 SidBot: [Invite Me!](https://bit.ly/SidBot)
 - ✅ [Click me](https://github.com/ItzSidhan/Credits) to use my codes on your videos!
 
 ---
